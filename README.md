@@ -1,5 +1,5 @@
 # Cavern - Refactored Bubble Bobble Clone
-#### Student Name - Mansi Kandoi     #### Student ID   - 100821953
+#### Student Name - Mansi Kandoi (100821953)
 
 A refactored version of the Pygame Zero Bubble Bobble-style game, originally from [Code the Classics](https://github.com/Wireframe-Magazine/Code-the-Classics/tree/master/cavern-master).
 
