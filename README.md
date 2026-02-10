@@ -93,20 +93,20 @@ Currently, this project uses manual testing. To test:
 
 ### Test Checklist
 
-- [ ] Menu screen displays and animates
-- [ ] Starting game creates player successfully
-- [ ] Player movement (left/right) works
-- [ ] Player jumping works
-- [ ] Orb firing works (single press)
-- [ ] Orb blowing works (hold space)
-- [ ] Pause freezes all game simulation
-- [ ] Pause overlay displays correctly
-- [ ] Resume continues game cleanly
-- [ ] Enemies spawn and move
-- [ ] Collision detection works
-- [ ] Level progression works
-- [ ] Game over triggers when lives < 0
-- [ ] Return to menu from game over works
+- Menu screen displays and animates
+- Starting game creates player successfully
+- Player movement (left/right) works
+- Player jumping works
+- Orb firing works (single press)
+- Orb blowing works (hold space)
+- Pause freezes all game simulation
+- Pause overlay displays correctly
+- Resume continues game cleanly
+- Enemies spawn and move
+- Collision detection works
+- Level progression works
+- Game over triggers when lives < 0
+- Return to menu from game over works
 
 ## Project Structure Details
 
@@ -142,7 +142,7 @@ Individual screen implementations following the State pattern.
 ## Credits
 
 - Original game code: [Wireframe Magazine - Code the Classics](https://github.com/Wireframe-Magazine/Code-the-Classics)
-- Refactoring: [Your Name]
+- Refactoring: Mansi Kandoi
 
 ## License
 
