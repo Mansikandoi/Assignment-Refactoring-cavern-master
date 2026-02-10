@@ -1,4 +1,5 @@
 # Design Documentation
+#### Student Name - Mansi Kandoi (100821953)
 
 ## Architecture Overview
 
